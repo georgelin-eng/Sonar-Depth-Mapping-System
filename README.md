@@ -38,14 +38,14 @@ with this bearing angle used to calculated x and y of each point with respect to
 ## Power Distribution Board (PDB) Design
 
 
-![[PCB Board Image.png]]
+![](https://github.com/georgelin-eng/Sonar-Depth-Mapping-System/blob/main/PCB%20Board%20Image.png)
 
 
 
 ## Enclosures CAD
 
-![[Enclosures CAD 1.png]]
-![[Enclosures CAD 2.png]]
+![](https://github.com/georgelin-eng/Sonar-Depth-Mapping-System/blob/main/Enclosures%20CAD%201.png)
+![](https://github.com/georgelin-eng/Sonar-Depth-Mapping-System/blob/main/Enclosures%20CAD%202.png)
 
 ## Issues
 
