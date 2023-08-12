@@ -47,11 +47,6 @@ with this bearing angle used to calculated x and y of each point with respect to
 ![](https://github.com/georgelin-eng/Sonar-Depth-Mapping-System/blob/main/Enclosures%20CAD%201.png)
 ![](https://github.com/georgelin-eng/Sonar-Depth-Mapping-System/blob/main/Enclosures%20CAD%202.png)
 
-## Issues
-
-No boat, therefore no testing. 
-
-
 
 ## Topographic Visualizations
 
