@@ -16,7 +16,7 @@ Where $\Phi$ is latitude and $\lambda$ is longitude.
 
 Bearing can be calculated as:
 
-$$θ = atan2( \sin (Δλ) \cos (\Phi_{2}) , \, \cos (\Phi_1) \sin (\Phi_2) − \sin (\Phi_1) \cos (\Phi_2) \cos Δλ )$$
+$$θ = atan2( \sin (Δλ) \cos (\Phi_{2}) ,   \cos (\Phi_1) \sin (\Phi_2) − \sin (\Phi_1) \cos (\Phi_2) \cos Δλ )$$
 
 with this bearing angle used to calculated x and y of each point with respect to the reference which is at (0, 0). This bearing angle is for an initial bearing angle and technically changes as you move from one point on a sphere to another, but but for small distances this effect is inconsequential. Using this measurement in conjunction with the magnetometer sensor data using sensor fusion techniques would allow for more accurate positional estimates. 
 
