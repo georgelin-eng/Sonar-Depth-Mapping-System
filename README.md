@@ -50,6 +50,10 @@ with this bearing angle used to calculated x and y of each point with respect to
 
 ## Topographic Visualizations
 
+Due to a lack of equipment (no boat), testing on a lack was not feasible. Instead, data was extracted from a 2d topographic image and used to create a 3d terrain model instead. https://github.com/georgelin-eng/topographic-map-to-3D-terrain-model
+
+![](https://github.com/georgelin-eng/Sonar-Depth-Mapping-System/blob/main/topographic-map-to-3D-terrain-model.png)
+
 
 
 ## Conclusions and Future Work
